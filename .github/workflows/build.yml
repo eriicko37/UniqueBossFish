@@ -28,7 +28,7 @@ jobs:
         if: github.ref != env.RELEASE_REF
 
       - name: Build mod
-        run: dotnet build --configuration Release
+        run: dotnet build UniqueBossFish/UniqueBossFish.csproj --configuration Release
 
       - name: Upload release zips
         uses: Pathoschild/SMAPI-ModBuildWorkflow/upload-release-artifacts@v1
