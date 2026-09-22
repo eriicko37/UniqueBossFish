@@ -19,3 +19,6 @@ Code-driven custom fishing systems which bypass `Data/Locations` or the vanilla 
 ## Build
 
 The repository builds automatically with GitHub Actions using Pathoschild's SMAPI Mod Build Workflow.
+
+
+Build-check branch used to validate compilation before release.
