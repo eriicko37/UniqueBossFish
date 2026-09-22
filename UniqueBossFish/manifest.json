@@ -1,0 +1,9 @@
+{
+  "Name": "Unique Boss Fish",
+  "Author": "EricSV",
+  "Version": "%ProjectVersion%",
+  "Description": "Makes every crowned boss fish unique per player and prevents Challenge Bait from awarding multiple copies in one boss-fish catch.",
+  "UniqueID": "EricSV.UniqueBossFish",
+  "EntryDll": "UniqueBossFish.dll",
+  "MinimumApiVersion": "4.0.0"
+}
